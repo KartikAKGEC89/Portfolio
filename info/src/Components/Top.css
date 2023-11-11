@@ -1,0 +1,14 @@
+.navbar-main {  
+    background: #1A0B2E;
+    box-shadow: 0px 6px 22px -3px rgba(0, 0, 0, 0.10);
+}
+.auto{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+}
+.auto:hover {
+    background-color: white;
+    border-radius: 2rem;
+}

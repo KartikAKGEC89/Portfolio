@@ -1,0 +1,18 @@
+.info {
+    text-align: center;
+    background-color: #11071F;
+}
+
+.intro-text {
+    color: white;
+    margin: 0px;
+}
+
+.work {
+    color: green;
+}
+.middle {
+    border-radius: 500px;
+    background-color: #11071F;
+    background: radial-gradient(50% 50% at 50% 50%, #2c0352 0%, rgba(50, 15, 133, 0.00) 80%);
+}

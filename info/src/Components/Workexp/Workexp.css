@@ -1,0 +1,31 @@
+.experience {
+background-color: #11071F;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+
+.exp {
+    color: white;
+    padding: 30px;
+}
+.exper {
+    color: white;
+    margin-top: 10px;
+}
+.cross {
+    color: #A362FF;
+}
+.work {
+    color: white;
+}
+.card {
+    display: flex;
+    width: 50vw;
+    border-radius: 15px;
+    margin-top: 30px;
+    padding: 20px;
+    background: linear-gradient(110deg, #130428 19.95%, #251043 67.64%, #38126D 107.08%, #261045 156.61%, #190634 183.21%);
+    box-shadow: 4px 7px 26px 0px rgba(0, 0, 0, 0.12);
+}
